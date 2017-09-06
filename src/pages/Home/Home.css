@@ -18,6 +18,8 @@
 }
 @media screen and (max-width: 800px) {
   .slogan {
+    font-size: 38px;
+    line-height: 35px;
     bottom: 200px;
     left: 50px;
   }
@@ -27,10 +29,11 @@
   position: absolute;
   top: 50px;
   right: 50px;
-  font-size: 32px;
+  letter-spacing: -0.1rem;
+  font-size: 28px;
   font-weight: bold;
   text-align: right;
-  color: #3151d9;
+  color: #202020;
 }
 .mail {
   position: absolute;

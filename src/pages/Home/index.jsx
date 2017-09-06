@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import _bindAll from 'lodash/bindAll'
 
-import logo from './logo.svg'
+// import logo from './logo.svg'
 import particlesConfig from './config/particles.js'
 import 'particles.js'
 
@@ -48,7 +48,7 @@ class Home extends Component {
         </div>
 
         <div className="logo">
-          <img src={logo} className="App-logo" alt="logo" />
+          CONSENSUS HK
         </div>
 
         <div className="mail">
